@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(19, 50, 54);
+    background-image: url("https://images3.alphacoders.com/853/thumb-1920-853435.jpg");
+  }
+  h1 {
+    color: greenyellow;
+    text-align: center;
+  }
+  h2 {
+    color: red;
+    text-align: center;
+  }
+  p {
+    color: red;
+  }
+  button {
+    color: white;
+    background-color: red;
+    height:34px;
+    right: 60px;
+  }
+  header {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+  }
+  symbol {
+      color: red;
+  }
+  footer {
+    color: coral;
+    text-align: center;
+    margin-bottom: 80px;
+    font-size: 23px;
+  }
+
+  nav{
+    align-items: center;
+    align-content: center;
+}

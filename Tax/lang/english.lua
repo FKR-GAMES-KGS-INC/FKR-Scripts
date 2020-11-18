@@ -1,0 +1,27 @@
+
+Language_file{
+    ['tax_evasion'] = 'Warrant issued for Felony Tax Evasion',
+    ['taxes_payed'] = 'You have paid % in taxes',
+    ['irs_charge'] = 'Since you have failed to pay taxes in the past you have been charged %',
+    ['tax_returns'] = 'You filed your tax return%s',
+    ['tax_return_payment'] = 'Return on your taxes of %3 issued to your bank account',
+    ['tax_return_accepted'] = 'Your tax return was accepted, all information was entered correctly',
+    ['tax_return_denied'] = 'Your tax return was denied, incomplete information',
+    ['tax_return_denied2'] = 'Your tax return was denied due to previous felonies of tax evasion',
+    ['tax_return_denied3'] = 'You were barred from filing tax returns for %',
+    ['tax_gas'] = 'Taxes charged with gas per gallon %',
+    ['tax_housing'] = 'Taxes on property %',
+    ['tax_cinsurance'] = 'Taxes on car insurance %',
+    ['tax_wshop'] = 'Taxes on weapons %',
+    ['tax_cshop'] = 'Taxes on cars %',
+    ['tax_internet'] = 'Taxes on internet service %',
+    ['tax_ecomp'] = 'Taxes on electricity bills %',
+    ['tax_uniform'] = 'Taxes on uniform expenses %',
+    ['tax_crepair'] = 'Taxes on car repair expenses %',
+    ['tax_water'] = 'Taxes on plumbing expenses %',
+    ['tax_hcare'] = 'Taxes on health care expenses %',
+    ['tax_dinsure'] = 'Taxes on death insurance expenses %',
+    ['tax_linsure'] = 'Taxes on life insurance expenses %',
+    ['tax_internet_shop'] = 'Taxes on online purchases %',
+    ['tax_clothing'] = 'Taxes on clothing purchases %'
+}
